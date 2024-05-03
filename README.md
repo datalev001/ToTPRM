@@ -1,1 +1,5 @@
-# ToTPRM
+# Constructing AI Support Agents with a Tree of Thought, Probabilistic Models, and LLMs
+Comprehensive Analysis of Tree of Thought, Probabilistic Relevance Models, and Large Language Models in Advanced AI Chatbots
+Integrating generative AI to boost operational efficiency has become a growing trend in various business sectors. Traditional AI systems such as AI Chatbot may perform well at handling direct, singular queries but often struggle with complex problems that require detailed and organized responses. 
+In this post, I explore the integration of techniques such as the Tree of Thought (ToT), Probabilistic Relevance Models (PRM), and Retriever-Augmented Generation (RAG) with OpenAI's Large Language Models, like GPT-4. These methods can transform how businesses use AI to address complex challenges systematically. The goal is to improve decision-making processes and enhance business efficiency.
+As a practical example, I will present the Internet service troubleshooting help desk. This case study illustrates how these techniques can be used to develop an AI-powered chatbot.
